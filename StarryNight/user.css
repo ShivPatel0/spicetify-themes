@@ -23,6 +23,7 @@
 .global-nav .Root__top-container {
   grid-template-areas:
     "global-nav global-nav global-nav"
+    "top-banner top-banner top-banner"
     "left-sidebar main-view now-playing-bar"
     "left-sidebar main-view right-sidebar" !important;
 }
